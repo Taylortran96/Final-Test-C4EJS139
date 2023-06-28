@@ -8,13 +8,13 @@ export const TaskTodos = [
     {
         id: 2,
         taskName: "Gặp bạn",
-        active: "inactive",
+        active: "",
         completed: "not completed",
     },
     {
         id: 3,
         taskName: "Đi nấu cơm",
-        active: "inactive",
+        active: "active",
         completed: "",
     },
     {
